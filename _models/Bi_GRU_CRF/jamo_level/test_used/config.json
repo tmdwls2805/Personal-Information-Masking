@@ -1,0 +1,14 @@
+{
+  "absolute_path": "D:/LOTTE/",
+  "data_dir": "_inputData/ner/",
+
+  "training_data": "train_exo",
+  "test_data": "test_exo",
+  "data_name": "exo",
+
+  "epochs": 1,
+  "maxlen": 100,
+  "max_char_len": 50,
+  "batch_size": 64,
+  "validation_rate": 0.1
+}

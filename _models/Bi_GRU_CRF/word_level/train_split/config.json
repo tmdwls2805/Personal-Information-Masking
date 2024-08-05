@@ -1,0 +1,14 @@
+{
+  "absolute_path": "D:/LOTTE/",
+  "data_dir": "_inputData/ner/",
+
+  "training_data": "POS_sample_v8",
+  "data_name": "lotte",
+
+  "epochs": 1,
+  "maxlen": 50,
+  "max_char_len": 50,
+  "batch_size": 32,
+  "validation_rate": 0.1,
+  "test_rate": 0.3
+}

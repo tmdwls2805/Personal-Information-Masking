@@ -1,0 +1,23 @@
+{
+  "absolute_path": "D:/LOTTE/",
+  "data_dir": "_inputData/ner/",
+  "training_data": "train_v3.txt",
+  "test_data": "test_v3.txt",
+  "data_name": "lotte",
+
+  "hidden_size": 768,
+  "maxlen" : 100,
+  "epochs": 20,
+  "batch_size": 32,
+  "dropout": 0.1,
+  "learning_rate": 8e-5,
+  "warmup_proportion": 0.1,
+  "gradient_accumulation_steps": 1,
+  "summary_step": 100,
+  "adam_epsilon": 1e-8,
+  "max_grad_norm": 1.0,
+  "logging_steps": 100,
+  "evaluate_during_training": true,
+  "save_steps": 100,
+  "num_warmup_steps": 0
+}

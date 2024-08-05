@@ -1,0 +1,14 @@
+{
+  "absolute_path": "D:/LOTTE/",
+  "data_dir": "_inputData/ner/",
+
+  "training_data": "train_v3",
+  "test_data": "test_v3",
+  "data_name": "lotte",
+
+  "epochs": 20,
+  "maxlen": 100,
+  "max_char_len": 70,
+  "batch_size": 32,
+  "validation_rate": 0.1
+}
