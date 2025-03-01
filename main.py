@@ -28,16 +28,7 @@ models = ['BERT_CRF', 'DistilKoBERT_CRF', 'KoBERT', 'KoBERT_CRF', 'KoBERT_BiGRU_
           'ELMo_CRF-word-elmo_emb', 'ELMo_CRF-char-w2v_emb', 'ELMo_CRF-char-fastText_emb', 'ELMo_CRF-char-glove_emb',
           'ELMo_CRF-char-elmo_emb', 'ELMo_CRF-jamo-w2v_emb', 'ELMo_CRF-jamo-fastText_emb', 'ELMo_CRF-jamo-glove_emb', 'ELMo_CRF-jamo-elmo_emb']
 
-txt = "저는 작년에 종근당 건강과 티맥스 소프트, IBK 신용정보원에 지원하였었습니다."
-# txt = "인재경영부 전지원 주임 입니다. 요청하신 경력증명서를 보내 드립니다."
-# txt = "안녕하십니까, 롯데정보통신에 다니는 이웅기입니다. " \
-#       "3월 5일에 입사하였고 현재 나이는 스물아홉 입니다. " \
-#       "저의 메일 주소는 OK_flag@naver.com이고 연락처는 010-7487-0125 입니다. " \
-#       "현재는 한양대학교와 산학협력을 진행하고 있습니다. 감사합니다."
-# txt = "군 제대 후의 롯데마트에서 FO로써 고객관리, 직원관리 등의 소중함을 느꼈고, 인터넷 쇼핑몰에서의 주임 활동은 인터넷쇼핑몰의 고객들의 불만 처리, 제품의 매출인상을 위한 마케팅등을 배웠습니다."
-# txt = "고정관념에 얽메이지 않는 창의적인 사고로 고객과 가맹점주, GS25 모두에게 이익과 감동을 줄 Win-Win 전략을 만들어야 합니다."
-# txt = "고객을 최우선으로 하여 고객의 자산을 제 것 처럼 소중하게 다루어 고객에게 만족과 신뢰를 드릴 준비가 되어있는 예비 대우증권인 김성도 입니다."
-# txt = "안녕하십니까, 한양대학교 데이터베이스 연구실을 졸업한 박승진입니다. 현재는 경희대학교 행정팀에 근무하고 있습니다."
+txt = "안녕하십니까, 한양대학교 데이터베이스 연구실을 졸업한 박승진입니다. 현재는 경희대학교 행정팀에 근무하고 있습니다."
 # txt = '자기소개서.docx'
 # txt = 'introduce_form1.xlsx'
 # txt = 'introduce_form2.xlsx'
