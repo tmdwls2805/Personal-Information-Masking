@@ -28,11 +28,6 @@ models = ['BERT_CRF', 'DistilKoBERT_CRF', 'KoBERT', 'KoBERT_CRF', 'KoBERT_BiGRU_
           'ELMo_CRF-word-elmo_emb', 'ELMo_CRF-char-w2v_emb', 'ELMo_CRF-char-fastText_emb', 'ELMo_CRF-char-glove_emb',
           'ELMo_CRF-char-elmo_emb', 'ELMo_CRF-jamo-w2v_emb', 'ELMo_CRF-jamo-fastText_emb', 'ELMo_CRF-jamo-glove_emb', 'ELMo_CRF-jamo-elmo_emb']
 
-txt = "이름은 서동국이고 생년월일은 93년 04월 06일 입니다. " \
-      "그리고 저는 현재 경기도 용인시 수지구에 거주하고 있으며, 어렸을 때에는 20개월동안 미국에서 살다왔습니다. " \
-      "제 주민등록번호는 930406-1243435이며 한양대학교 데이터베이스 연구실을 졸업했습니다. "\
-      "제가 다니고 싶은 회사는 (주)삼일제지이고 거기서 NLP 고도화팀에 들어가서 상무 이상의 직급이 되고 싶습니다. "\
-      "더 궁금하신 사항 있으시면 _sdk6789_@hanyang.ac.kr로 메일주시거나 010-1234-5678로 문자주시기 바랍니다. 감사합니다."
 txt = "저는 작년에 종근당 건강과 티맥스 소프트, IBK 신용정보원에 지원하였었습니다."
 # txt = "인재경영부 전지원 주임 입니다. 요청하신 경력증명서를 보내 드립니다."
 # txt = "안녕하십니까, 롯데정보통신에 다니는 이웅기입니다. " \
